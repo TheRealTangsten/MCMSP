@@ -462,8 +462,16 @@
 "entity.generic.eat": {"replace":true, "category": "master", "sounds": ["random/eat1","random/eat2","random/eat3"]},
 "entity.player.burp": {"replace":true, "category": "master", "sounds": ["random/burp"]},
 
-"event.raid.horn": {"replace":true, "category": "master", "sounds": ["random/horn1"]}
+"event.raid.horn": {"replace":true, "category": "master", "sounds": ["random/horn1"]},
 
+"item.goat_horn.sound.0" : {"replace":true, "category": "master", "sounds": ["random/gh0"]},
+"item.goat_horn.sound.1" : {"replace":true, "category": "master", "sounds": ["random/gh1"]},
+"item.goat_horn.sound.2" : {"replace":true, "category": "master", "sounds": ["random/gh2"]},
+"item.goat_horn.sound.3" : {"replace":true, "category": "master", "sounds": ["random/gh3"]},
+"item.goat_horn.sound.4" : {"replace":true, "category": "master", "sounds": ["random/gh4"]},
+"item.goat_horn.sound.5" : {"replace":true, "category": "master", "sounds": ["random/gh5"]},
+"item.goat_horn.sound.6" : {"replace":true, "category": "master", "sounds": ["random/gh6"]},
+"item.goat_horn.sound.7" : {"replace":true, "category": "master", "sounds": ["random/gh7"]}
 
 
 
