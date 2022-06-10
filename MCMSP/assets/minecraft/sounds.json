@@ -435,6 +435,21 @@
 "entity.tropical_fish.death": {"replace":true, "category": "friendly", "sounds": ["mob/tropical_fish/death"]},
 "entity.tropical_fish.hurt": {"replace":true, "category": "friendly", "sounds": ["mob/tropical_fish/hurt1"]},
 
+"entity.frog.death": {"replace":true, "category": "friendly", "sounds": ["mob/frog/death1","mob/frog/death2"]},
+"entity.frog.hurt": {"replace":true, "category": "friendly", "sounds": ["mob/frog/hurt1","mob/frog/hurt1"]},
+"entity.frog.ambient": {"replace":true, "category": "friendly", "sounds": ["mob/frog/ambient"]},
+"entity.frog.eat": {"replace":true, "category": "friendly", "sounds": ["mob/frog/eat1"]},
+"entity.frog.long_jump": {"replace":true, "category": "friendly", "sounds": ["mob/frog/jump1"]},
+"entity.frog.lay_spawn": {"replace":true, "category": "friendly", "sounds": ["mob/frog/egg1"]},
+
+"entity.allay.death": {"replace":true, "category": "friendly", "sounds": ["mob/allay/death1"]},
+"entity.allay.ambient_with_item": {"replace":true, "category": "friendly", "sounds": ["mob/allay/item1","mob/allay/item2","mob/allay/item3"]},
+"entity.allay.ambient_without_item": {"replace":true, "category": "friendly", "sounds": ["mob/allay/no_item1","mob/allay/no_item2","mob/allay/no_item3"]},
+"entity.allay.hurt": {"replace":true, "category": "friendly", "sounds": ["mob/allay/hurt1","mob/allay/hurt2"]},
+"entity.allay.item_given": {"replace":true, "category": "friendly", "sounds": ["mob/allay/item_given1","mob/allay/item_given2","mob/allay/item_given3","mob/allay/item_given4"]},
+"entity.allay.item_taken": {"replace":true, "category": "friendly", "sounds": ["mob/allay/item_taken1","mob/allay/item_taken2","mob/allay/item_taken3","mob/allay/item_taken4"]},
+"entity.allay.item_thrown": {"replace":true, "category": "friendly", "sounds": ["mob/allay/item_throw1","mob/allay/item_throw2"]},
+
 "music.end": {"replace":true, "category": "music", "sounds": ["music/end_music"]},
 "music.dragon": {"replace":true, "category": "music", "sounds": ["music/end_boss"]},
 "music.game": {"replace":true, "category": "music", "sounds": ["music/base"]},
