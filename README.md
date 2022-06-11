@@ -16,7 +16,7 @@ Official Minecraft Meme Soundpack repository
 		|Overworld|:	Creeper, Skeleton, Spider, Cave Spider, Zombie, Silverfish, Enderman, Husk, Stray, Drowned, Guardian, Elder Guardian, Vindicator,
 		Pillager, Evoker, Phantom, Vex, Ravager, Witch, Slime, Zombified Villager, Villager, Irom Golem, Cat, Wolf, Sheep, Turtle, Fox, Chicken, Horse,
 		Donkey, Mule, Llama, Squid, Glowsquid, Rabbit, Pig, Cow, Parrot, Bee, Axolotl, Goat, Bat, Snow Golem, Panda, Polar Bear, Pufferfish, Frog, Allay.
-		Wandering Trader, Dolphin.
+		Wandering Trader, Dolphin, Warden.
 	
 		|Nether|:	Blaze, Piglin, Piglin Brute, Hoglin, Zoglin, Pigman, Wither Skeleton, Ghast, Wither, Strider, Magma Slime.
 		
