@@ -22,6 +22,8 @@ Official Minecraft Meme Soundpack repository
 		
 		|End|:	Endermite, Shulker, Ender Dragon.
 		
+		|Special|: Illusioner.
+		
 	Blocks: Anvil, Bell, Brewing Stand, Sculk Sensor, Sculk Shrieker, Nether Portal, End Portal.
 	
 	Music: All music changed. Overworld/Nether have 1 track each, with the End having 2 tracks (one before beating the ender dragon, one afterwards ).
