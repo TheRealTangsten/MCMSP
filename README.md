@@ -8,4 +8,29 @@ Official Minecraft Meme Soundpack repository
   sounds.json . Among such odities one stands out the most: The Drowned. It is the only mob whose file structure I had to replicate strictly for it
   to work (modifiying sound strings through the .json file didn't work in this case) on the VANILLA version of the game ( .json editing worked for
   Optifine versions of the game).
+  
+  
+  Sounds modified so far:
+  
+	Mobs:
+		|Overworld|:	Creeper, Skeleton, Spider, Cave Spider, Zombie, Silverfish, Enderman, Husk, Stray, Drowned, Guardian, Elder Guardian, Vindicator,
+		Pillager, Evoker, Phantom, Vex, Ravager, Witch, Slime, Zombified Villager, Villager, Irom Golem, Cat, Wolf, Sheep, Turtle, Fox, Chicken, Horse,
+		Donkey, Mule, Llama, Squid, Glowsquid, Rabbit, Pig, Cow, Parrot, Bee, Axolotl, Goat, Bat, Snow Golem, Panda, Polar Bear, Pufferfish, Frog, Allay.
+		Wandering Trader, Dolphin.
+	
+		|Nether|:	Blaze, Piglin, Piglin Brute, Hoglin, Zoglin, Pigman, Wither Skeleton, Ghast, Wither, Strider, Magma Slime.
+		
+		|End|:	Endermite, Shulker, Ender Dragon.
+		
+	Blocks: Anvil, Bell, Brewing Stand, Sculk Sensor, Sculk Shrieker, Nether Portal, End Portal.
+	
+	Music: All music changed. Overworld/Nether have 1 track each, with the End having 2 tracks (one before beating the ender dragon, one afterwards ).
+	New menu music!
+	
+	Ambient: Changed all cave sounds.
+	
+	Events: Explosions, Player damage, Player fall, Player eating, Player death, Menu clicks, Raid horn, Achievemnt sounds.
+	
+	Items: All records (Except the 1.19 ones), All Goat Horns.
+		
 
