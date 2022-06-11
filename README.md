@@ -34,5 +34,7 @@ Official Minecraft Meme Soundpack repository
 	Events: Explosions, Player damage, Player fall, Player eating, Player death, Menu clicks, Raid horn, Achievemnt sounds.
 	
 	Items: All records (Except the 1.19 ones), All Goat Horns.
-		
+
+
+Note:	"music/disks/" folder is completly useless. I keep it for no reason at all.	
 
